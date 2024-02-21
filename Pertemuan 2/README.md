@@ -36,7 +36,7 @@ public class Buku24 {
 
 ### 2.1.2 Verifikasi Hasil Percobaan
 
-Hasilnya akan error
+Hasilnya akan error<br>
 ![image](./img/img1.png)
 
 ### 2.1.3 Pertanyaan
