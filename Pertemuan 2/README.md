@@ -74,12 +74,12 @@ Hasilnya akan error<br>
 ```
 
 void terjual(int jml) {
-if (stok > 0) {
-stok -= jml;
-System.out.println(jml + " buku terjual. Sisa stok: " + stok);
-} else {
-System.out.println("Stok tidak mencukupi untuk melakukan penjualan.");
-}
+    if (stok > 0) {
+        stok -= jml;
+        System.out.println(jml + " buku terjual. Sisa stok: " + stok);
+    } else {
+        System.out.println("Stok tidak mencukupi untuk melakukan penjualan.");
+    }
 }
 
 ```
