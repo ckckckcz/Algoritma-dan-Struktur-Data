@@ -92,14 +92,3 @@ JAWAB :
 
 6. Commit dan push kode program ke Github
 
-```
-
-```
-
-```
-
-```
-
-```
-
-```
